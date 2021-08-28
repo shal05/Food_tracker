@@ -11,7 +11,7 @@ Please check the requirements.txt file for what software you will need up to dat
 
 Technologies
 
-Project implemetes a RESTful API in CRUD which sends and recieves GET/POST requests from the HTTP server. This is done by using Flask which acts as the app's backend. Flask creates the different site routes to allow functionality in adding, updating, deleting food requests as well as the goals.
+Project implemetes a Restful API in CRUD which sends and recieves GET/POST requests from the HTTP server. This is done by using Flask which acts as the app's backend. Flask creates the different site routes to allow functionality in adding, updating, deleting food requests as well as the goals.
 
 The app's frontend is developed in HTML, CSS and JS - ensuring a responsive design so it is compatiable on all device types and easy to use. 
 
